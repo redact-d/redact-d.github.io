@@ -3,7 +3,7 @@
   <channel>
       <title>Hugo on Austin Quam - 4662W </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://replace-this-with-your-hugo-site.com/categories/hugo/</link>
+    <link>https://redact-d.github.io/categories/hugo/</link>
     <language>en-us</language>
     
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. - Fredrik Loch</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Just another sample post</title>
-      <link>http://replace-this-with-your-hugo-site.com/newest/</link>
+      <link>https://redact-d.github.io/newest/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/newest/</guid>
+      <guid>https://redact-d.github.io/newest/</guid>
       <description></description>
     </item>
     

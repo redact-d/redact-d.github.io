@@ -3,7 +3,7 @@
   <channel>
       <title>Development on Austin Quam - 4662W </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://replace-this-with-your-hugo-site.com/tags/development/</link>
+    <link>https://redact-d.github.io/tags/development/</link>
     <language>en-us</language>
     
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. - Fredrik Loch</copyright>
@@ -11,19 +11,19 @@
     
     <item>
       <title>legal notice</title>
-      <link>http://replace-this-with-your-hugo-site.com/legal-notice/</link>
+      <link>https://redact-d.github.io/legal-notice/</link>
       <pubDate>Wed, 28 Sep 2016 17:42:20 CDT</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/legal-notice/</guid>
+      <guid>https://redact-d.github.io/legal-notice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cv</title>
-      <link>http://replace-this-with-your-hugo-site.com/cv/</link>
+      <link>https://redact-d.github.io/cv/</link>
       <pubDate>Wed, 28 Sep 2016 17:42:12 CDT</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/cv/</guid>
+      <guid>https://redact-d.github.io/cv/</guid>
       <description></description>
     </item>
     
